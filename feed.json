@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "虾米小朋友",
+    "description": "",
+    "home_page_url": "https://97xiami.github.io/gh-pages",
+    "feed_url": "https://97xiami.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "虾米小朋友"
+    },
+    "items": [
+        {
+            "id": "https://97xiami.github.io/gh-pages/adasdad.html",
+            "url": "https://97xiami.github.io/gh-pages/adasdad.html",
+            "title": "adasdad",
+            "author": {
+                "name": "虾米小朋友"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-13T14:15:06+08:00",
+            "date_modified": "2023-01-13T14:15:06+08:00"
+        },
+        {
+            "id": "https://97xiami.github.io/gh-pages/a.html",
+            "url": "https://97xiami.github.io/gh-pages/a.html",
+            "title": "啊",
+            "summary": "adasda",
+            "content_html": "<p>adasda</p>\n",
+            "author": {
+                "name": "虾米小朋友"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-13T14:09:38+08:00",
+            "date_modified": "2023-01-13T14:09:38+08:00"
+        }
+    ]
+}
